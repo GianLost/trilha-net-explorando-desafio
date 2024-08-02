@@ -6,9 +6,9 @@ Console.OutputEncoding = Encoding.UTF8;
 // Cria os modelos de hóspedes e cadastra na lista de hóspedes
 List<Pessoa> hospedes = new ();
 
-Pessoa p1 = new(nome: "Luciano");
-Pessoa p2 = new(nome: "Kadu");
-Pessoa p3 = new(nome: "Jacyara");
+Pessoa p1 = new(nome: "Pedro");
+Pessoa p2 = new(nome: "Carol");
+Pessoa p3 = new(nome: "Jorge");
 
 hospedes.Add(p1);
 hospedes.Add(p2);
